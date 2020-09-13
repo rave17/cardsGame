@@ -16,7 +16,7 @@
     "fetch": "^1.1.0",
     "mongoose": "^5.8.11",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
